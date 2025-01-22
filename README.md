@@ -38,6 +38,7 @@ npm start
 -Implement backend intergration to fetch data dynamically 
 
 ## Live Link
+-https://social-medial-app-two.vercel.app/
 
 
 ## Licence
